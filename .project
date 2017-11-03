@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CobolSample1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.fujitsu.platform.build.InterstageApworksBuilder</name>
+			<arguments>
+				<dictionary>
+					<key>1</key>
+					<value>cobol_buildtool</value>
+				</dictionary>
+				<dictionary>
+					<key>2</key>
+					<value>link_buildtool</value>
+				</dictionary>
+				<dictionary>
+					<key>originaltargetapplicationtype</key>
+					<value>com.fujitsu.platform.build.cobolproject</value>
+				</dictionary>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.fujitsu.platform.ui.InterstageApworksCOBOLNature</nature>
+	</natures>
+</projectDescription>
