@@ -1,3 +1,4 @@
 FILE01=D:\product.txt
 FILE02=D:\sortedproduct.txt
 WORK01=D:\work.tmp
+FILE03=D:\report.txt

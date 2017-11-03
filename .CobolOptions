@@ -5,13 +5,6 @@ Encoding=UTF8
 Version No=6.0
 
 
-[SolutionOptionsUsing]
-ProjectCompilerOptionsCheck=off
-ProjectBuildToolResourceCheck=off
-ProjectRemoteTargetOptionsCheck=off
-ProjectBuildToolPreCompilerCheck=off
-ProjectBuildToolIDLPreCompilerCheck=off
-
 [TargetOptions]
 TargetName=CobolSample1
 ApplicationArch=x86
@@ -35,3 +28,11 @@ ForceCheckAllInDebugMode=true
 CobolSourceFileCount=1
 CobolSourceFile1=main.cob
 MainFile=CobolSample1/main.cob
+
+[SolutionOptionsUsing]
+ProjectCompilerOptionsCheck=off
+ProjectBuildToolResourceCheck=off
+ProjectFileContentsCheck=off
+ProjectRemoteTargetOptionsCheck=off
+ProjectBuildToolPreCompilerCheck=off
+ProjectBuildToolIDLPreCompilerCheck=off
